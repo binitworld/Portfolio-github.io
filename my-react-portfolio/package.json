@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "animate.css": "^4.1.1",
+    "loaders.css": "^0.1.2",
+    "react-leaflet": "^4.2.1",
+    "react-loaders": "^3.0.1",
+    "react-router-dom": "^6.17.0",
+    "sass": "^1.69.4"
+  }
+}
